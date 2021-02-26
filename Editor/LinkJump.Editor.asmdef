@@ -1,0 +1,17 @@
+{
+    "name": "LinkJump.Editor",
+    "references": [
+        "GUID:a81bfd8378d4a4bc6bc68596062ffaf7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,10 @@
+{
+  "name": "org.ftxtool.lib.linkjump",
+  "displayName": "Link Jump",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Try open a url with other app.",
+  "author": "XiaochenFTX",
+  "hideInEditor": false,
+  "dependencies": {}
+}
